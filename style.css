@@ -1,0 +1,36 @@
+html{
+  height:100%;
+  background-image:url('https://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/necg5t6ikqpsh8zkfhj6/lebron-james-cavaliers-celtics-january-2018');
+  background-size:cover;
+}
+
+#banner {
+ padding-top: 22%;
+ font-family:Titan One,cursive;
+ font-size:35px;
+ display:flex;
+ justify-content: center;
+ color:#810606;
+}
+
+#heading{
+  height: 100%;
+  font-family:'Montserrat', sans-serif;
+  display:flex;
+  justify-content: space-around;
+  color: #6d6906;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  position: fixed;
+  Top: 0;
+  left: 0;
+  width: 100%; /* Full width */
+}
+
+.navbar a {
+  float: left;
+  display: block;
